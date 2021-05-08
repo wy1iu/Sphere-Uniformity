@@ -15,7 +15,7 @@ By Weiyang Liu, Rongmei Lin, Zhen Liu, Li Xiong, Bernhard Schölkopf, Adrian Wel
 ### Introduction
 Due to the over-parameterization nature, neural networks are a powerful tool for nonlinear function approximation. In order to achieve good generalization on unseen data, a suitable inductive bias is of great importance for neural networks. One of the most straightforward ways is to regularize the neural network with some additional objectives. Motivated by this, hyperspherical uniformity is proposed as a novel family of relational regularizations that impact the interaction among neurons. We consider several geometrically distinct ways to achieve hyperspherical uniformity.
 
-**Our Sphere-Uniformity is accepted to [AISTATS 2021](https://aistats.org/aistats2021/) and the full paper is available on [arXiv](https://arxiv.org/abs/2103.01649) and [here](https://wyliu.com/papers/LiuAISTATS2021.pdf).**
+**Our hyperspherical uniformity is accepted to [AISTATS 2021](https://aistats.org/aistats2021/) and the full paper is available on [arXiv](https://arxiv.org/abs/2103.01649) and [here](https://wyliu.com/papers/LiuAISTATS2021.pdf).**
 
 ### Citation
 If you find our work useful in your research, please consider to cite:
